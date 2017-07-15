@@ -1,9 +1,10 @@
 # Bitcoin
-![alt tag](./pic/bitcoin-network.svg)
+![bitcoin](./pic/bitcoin/bitcoin_logo.png)
 ## Introduction
 
 ### What
   - [Bitcoin Wallet](https://blockchain.info/wallet/bitcoin-faq)
+  - [Bitcoin on wiki](https://en.bitcoin.it/wiki/Main_Page)
 ### How
 ### Why
 
