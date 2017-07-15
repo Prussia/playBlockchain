@@ -1,5 +1,5 @@
 # Bitcoin
-![bitcoin](./pic/bitcoin/bitcoin_logo.png)
+![bitcoin](./pic/bitcoin/Bitcoin_logo.png)
 ## Introduction
 
 ### What
