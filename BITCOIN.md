@@ -1,5 +1,5 @@
 # Bitcoin
-![B](./pic/bitcoin-network.svg)
+![alt tag](./pic/bitcoin-network.svg)
 ## Introduction
 ### What
 ### How
