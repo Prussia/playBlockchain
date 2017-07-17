@@ -5,6 +5,7 @@
 
 2. The application and concept of Blockchain
    - [区块链技术是什么？未来可能用于哪些方面？](https://www.zhihu.com/question/27687960)
-    
+   
+3. [Get Started on Bitcoin](./BITCOIN.md)
 3. Blockchain in Practice
 
