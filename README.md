@@ -7,6 +7,7 @@
    - [区块链技术是什么？未来可能用于哪些方面？](https://www.zhihu.com/question/27687960)
    
 3. [Get Started on Bitcoin](./BITCOIN.md)
+4. [Concept](./CONCERPT.md)
 3. Blockchain in Practice
    - [ICO](https://zh.wikipedia.org/wiki/%E9%A6%96%E6%AC%A1%E4%BB%A3%E5%B8%81%E5%8F%91%E5%94%AE)
       
