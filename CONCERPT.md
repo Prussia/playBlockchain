@@ -1,5 +1,7 @@
 # Blockchain Concept
 
+## [Glossary](https://blockgeeks.com/guides/blockchain-glossary-from-a-z/)
+
 ## [Transaction](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html#transactions)
 
 ## [Blocks](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html#blocks)
