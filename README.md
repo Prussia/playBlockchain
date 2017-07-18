@@ -10,6 +10,7 @@
 4. [Get Started on Ethereum](ETHEREUM.md)
 4. [Concept](./CONCERPT.md)
 3. Blockchain in Practice
+   - [Solidity](./Solidity.md)
    - Framework
       - http://truffleframework.com/
       - https://github.com/dapphub/dapp
