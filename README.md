@@ -13,4 +13,6 @@
    - [Solidity](./SOLIDITY.md)
    - Framework
       - http://truffleframework.com/
-      - https://github.com/dapphub/dapp
+      
+      - [DAPP](https://github.com/dapphub/dapp)
+         - [Dapps And The Decentralized Future](https://blockgeeks.com/guides/dapps-the-decentralized-future/)
