@@ -2,6 +2,8 @@
 
 ## [Glossary](https://blockgeeks.com/guides/blockchain-glossary-from-a-z/)
 
+## [Cryptocurrency Wallet Guide](https://blockgeeks.com/guides/cryptocurrency-wallet-guide/)
+
 ## [Transaction](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html#transactions)
 
 ## [Blocks](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html#blocks)
