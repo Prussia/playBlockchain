@@ -8,4 +8,9 @@
    
 3. [Get Started on Bitcoin](./BITCOIN.md)
 3. Blockchain in Practice
-
+   - Smart Contract
+      开发智能合约主要用到两个框架：
+      
+         Truffle Framework [1], truffle 提供了一整套部署测试的工具，可以方便和 web3js（以太坊提供的 NodeJS SDK） 结合使用。
+         
+         dapphub [2] 提供了很多实用的合约，比如数学运算、权限验证等。
