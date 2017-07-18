@@ -1,5 +1,7 @@
 # Blockchain Concept
 
+## [Blockchain Business](https://blockgeeks.com/guides/blockchain-applications/)
+
 ## [Glossary](https://blockgeeks.com/guides/blockchain-glossary-from-a-z/)
 
 ## [Cryptocurrency Wallet Guide](https://blockgeeks.com/guides/cryptocurrency-wallet-guide/)
