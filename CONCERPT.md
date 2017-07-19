@@ -12,6 +12,8 @@
 
 ## [CRYPTOCURRENCY](https://blockgeeks.com/guides/what-is-cryptocurrency/)
 
+limited entries in a database no one can change without fulfilling specific conditions
+
 ## [ICO](https://zh.wikipedia.org/wiki/%E9%A6%96%E6%AC%A1%E4%BB%A3%E5%B8%81%E5%8F%91%E5%94%AE)
       
          首次代币发售（英语：Initial Coin Offering，简称 ICO）也称为区块链众筹，是用区块链把使用权和加密货币合二为一，来开发、维护、交换相关产品或者服务的名称。
