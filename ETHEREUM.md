@@ -11,3 +11,7 @@ This enables developers to create markets, store registries of debts or promises
 ## [Wiki for Ethereum](https://github.com/ethereum/wiki/wiki)
 
 ## [Ethereum Token](https://blockgeeks.com/guides/ethereum-token/)
+
+## [ethereumj](https://github.com/ethereum/ethereumj)
+
+ethereumj is a pure-Java implementation of the Ethereum protocol. 
