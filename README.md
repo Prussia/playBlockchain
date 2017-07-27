@@ -12,7 +12,11 @@
 3. Blockchain in Practice
    - [Solidity](./SOLIDITY.md)
    - Framework
+      - [Hyperledger]()
+      - [Monax(Eris)]()
+      - [Chain Core]()
       - http://truffleframework.com/
       
       - [DAPP](https://github.com/dapphub/dapp)
          - [Dapps And The Decentralized Future](https://blockgeeks.com/guides/dapps-the-decentralized-future/)
+   
