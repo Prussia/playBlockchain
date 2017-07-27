@@ -12,9 +12,9 @@
 3. Blockchain in Practice
    - [Solidity](./SOLIDITY.md)
    - Framework
-      - [Hyperledger]()
-      - [Monax(Eris)]()
-      - [Chain Core]()
+      - [Hyperledger](https://github.com/hyperledger)
+      - [Monax(Eris)](https://github.com/monax/monax)
+      - [Chain Core](https://github.com/chain/chain)
       - [IBM Blockchain](https://github.com/IBM-Blockchain/learn-chaincode)
       - http://truffleframework.com/
       
